@@ -1,0 +1,86 @@
+D:\SFCS\SRC_CODE\Asus Weekly Report\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.AssemblyReference.cache
+D:\SFCS\SRC_CODE\Asus Weekly Report\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.Properties.Resources.resources
+D:\SFCS\SRC_CODE\Asus Weekly Report\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.GenerateResource.cache
+D:\SFCS\SRC_CODE\Asus Weekly Report\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.CoreCompileInputs.cache
+D:\SFCS\SRC_CODE\Asus Weekly Report\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.exe.config
+D:\SFCS\SRC_CODE\Asus Weekly Report\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.exe
+D:\SFCS\SRC_CODE\Asus Weekly Report\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.pdb
+D:\SFCS\SRC_CODE\Asus Weekly Report\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.exe
+D:\SFCS\SRC_CODE\Asus Weekly Report\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.pdb
+D:\SFCS\SRC_CODE\Asus Weekly Report\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.Main.resources
+D:\SRC_CODE\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.exe.config
+D:\SRC_CODE\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.exe
+D:\SRC_CODE\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.pdb
+D:\SRC_CODE\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.Main.resources
+D:\SRC_CODE\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.Properties.Resources.resources
+D:\SRC_CODE\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.GenerateResource.cache
+D:\SRC_CODE\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.CoreCompileInputs.cache
+D:\SRC_CODE\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.exe
+D:\SRC_CODE\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.pdb
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.exe.config
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.exe
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.pdb
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.AssemblyReference.cache
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.Main.resources
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.Properties.Resources.resources
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.GenerateResource.cache
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.CoreCompileInputs.cache
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.exe
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.pdb
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month_edit_over_2_month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.exe.config
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month_edit_over_2_month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.exe
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month_edit_over_2_month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.pdb
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month_edit_over_2_month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.Main.resources
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month_edit_over_2_month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.Properties.Resources.resources
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month_edit_over_2_month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.GenerateResource.cache
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month_edit_over_2_month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.CoreCompileInputs.cache
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month_edit_over_2_month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.exe
+D:\SourceCode\Auto_Sent_Mail_Over_3_Month_edit_over_2_month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.pdb
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.exe.config
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.exe
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\AsusWeeklyReport.pdb
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.AssemblyReference.cache
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.Main.resources
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.Properties.Resources.resources
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.GenerateResource.cache
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.CoreCompileInputs.cache
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.exe
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.pdb
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\EPPlus.Interfaces.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.Buffers.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.ComponentModel.Annotations.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.Memory.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.Numerics.Vectors.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.Buffers.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.Memory.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.Numerics.Vectors.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\obj\Debug\AsusWeeklyReport.csproj.CopyComplete
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\BouncyCastle.Cryptography.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\Enums.NET.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\ExtendedNumerics.BigDecimal.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\MathNet.Numerics.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\SixLabors.Fonts.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\SixLabors.ImageSharp.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\BouncyCastle.Cryptography.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\Enums.NET.pdb
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\Enums.NET.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\ExtendedNumerics.BigDecimal.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\MathNet.Numerics.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\SixLabors.Fonts.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\SixLabors.ImageSharp.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\Syncfusion.Compression.Base.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\Syncfusion.Licensing.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\Syncfusion.XlsIO.Base.dll
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\Syncfusion.Compression.Base.xml
+D:\SourceCode\Repair System_backup20240112\Auto_Sent_Mail_Over_3_Month\AsusWeeklyReport\AsusWeeklyReport\bin\Debug\Syncfusion.XlsIO.Base.xml

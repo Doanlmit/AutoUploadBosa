@@ -1,0 +1,275 @@
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\AutoUploadBosa.exe.config
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\AutoUploadBosa.exe
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\AutoUploadBosa.pdb
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\Enums.NET.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\EPPlus.Interfaces.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\ExtendedNumerics.BigDecimal.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\MathNet.Numerics.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\SixLabors.Fonts.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\SixLabors.ImageSharp.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\Syncfusion.Licensing.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.Buffers.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.ComponentModel.Annotations.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.Memory.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.Numerics.Vectors.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.ValueTuple.dll
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\Enums.NET.pdb
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\Enums.NET.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\ExtendedNumerics.BigDecimal.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\ICSharpCode.SharpZipLib.pdb
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\ICSharpCode.SharpZipLib.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\MathNet.Numerics.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\SixLabors.Fonts.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\SixLabors.ImageSharp.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.Buffers.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.Memory.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.Numerics.Vectors.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\bin\Release\System.ValueTuple.xml
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.AssemblyReference.cache
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\obj\Release\AutoUploadBosa.Main.resources
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\obj\Release\AutoUploadBosa.Properties.Resources.resources
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.GenerateResource.cache
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CoreCompileInputs.cache
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CopyComplete
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\obj\Release\AutoUploadBosa.exe
+D:\SourceCode\AutoUploadBosa _backup\AutoUploadBosa\obj\Release\AutoUploadBosa.pdb
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\AutoUploadBosa.exe.config
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\AutoUploadBosa.exe
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\AutoUploadBosa.pdb
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\Enums.NET.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\SixLabors.Fonts.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\SixLabors.ImageSharp.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\Syncfusion.Licensing.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.Buffers.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.ComponentModel.Annotations.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.Memory.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.Numerics.Vectors.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.ValueTuple.dll
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\Enums.NET.pdb
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\Enums.NET.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\SixLabors.Fonts.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\SixLabors.ImageSharp.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.Buffers.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.Memory.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.Numerics.Vectors.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\bin\Release\System.ValueTuple.xml
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\obj\Release\AutoUploadBosa.exe.config
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\obj\Release\AutoUploadBosa.Main.resources
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\obj\Release\AutoUploadBosa.Properties.Resources.resources
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.GenerateResource.cache
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CoreCompileInputs.cache
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CopyComplete
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\obj\Release\AutoUploadBosa.exe
+D:\SourceCode\AutoUploadBosa _backup_07_09\AutoUploadBosa\obj\Release\AutoUploadBosa.pdb
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\AutoUploadBosa.exe.config
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\AutoUploadBosa.exe
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\AutoUploadBosa.pdb
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\Enums.NET.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.Licensing.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Buffers.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.ComponentModel.Annotations.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Memory.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Numerics.Vectors.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.ValueTuple.dll
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\Enums.NET.pdb
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\Enums.NET.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Buffers.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Memory.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Numerics.Vectors.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\bin\Release\System.ValueTuple.xml
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.AssemblyReference.cache
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.exe.config
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.Main.resources
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.Properties.Resources.resources
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.GenerateResource.cache
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CoreCompileInputs.cache
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CopyComplete
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.exe
+D:\SourceCode\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.pdb
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\AutoUploadBosa.exe.config
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\AutoUploadBosa.exe
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\AutoUploadBosa.pdb
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Enums.NET.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.Licensing.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Buffers.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Memory.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Numerics.Vectors.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.ValueTuple.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Enums.NET.pdb
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Enums.NET.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Buffers.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Memory.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Numerics.Vectors.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.ValueTuple.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.AssemblyReference.cache
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.exe.config
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.Main.resources
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.Properties.Resources.resources
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.GenerateResource.cache
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CoreCompileInputs.cache
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CopyComplete
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.exe
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.pdb
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\AutoUploadBosa.exe.config
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\AutoUploadBosa.exe
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\AutoUploadBosa.pdb
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\Enums.NET.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\Syncfusion.Licensing.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.Buffers.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.Memory.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.Numerics.Vectors.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.ValueTuple.dll
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\Enums.NET.pdb
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\Enums.NET.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.Buffers.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.Memory.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.Numerics.Vectors.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\bin\Release\System.ValueTuple.xml
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.AssemblyReference.cache
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\obj\Release\AutoUploadBosa.exe.config
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\obj\Release\AutoUploadBosa.Main.resources
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\obj\Release\AutoUploadBosa.Properties.Resources.resources
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.GenerateResource.cache
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CoreCompileInputs.cache
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CopyComplete
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\obj\Release\AutoUploadBosa.exe
+C:\Users\peter_luong\Desktop\SRC_CODE\AutoUploadBosa——\AutoUploadBosa\obj\Release\AutoUploadBosa.pdb
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\AutoUploadBosa.exe.config
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\AutoUploadBosa.exe
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\AutoUploadBosa.pdb
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Enums.NET.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Renci.SshNet.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Syncfusion.Licensing.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.Buffers.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.ComponentModel.Annotations.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.Memory.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.Numerics.Vectors.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.ValueTuple.dll
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Enums.NET.pdb
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Enums.NET.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Renci.SshNet.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.Buffers.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.Memory.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.Numerics.Vectors.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\bin\Release\System.ValueTuple.xml
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.AssemblyReference.cache
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\obj\Release\AutoUploadBosa.Main.resources
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\obj\Release\AutoUploadBosa.Properties.Resources.resources
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.GenerateResource.cache
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CoreCompileInputs.cache
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CopyComplete
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\obj\Release\AutoUploadBosa.exe
+D:\SRC_CODE\AutoUploadBosa_2024\AutoUploadBosa\obj\Release\AutoUploadBosa.pdb
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\AutoUploadBosa.exe.config
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\AutoUploadBosa.exe
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\AutoUploadBosa.pdb
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Enums.NET.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Renci.SshNet.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.Licensing.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Buffers.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.ComponentModel.Annotations.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Memory.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Numerics.Vectors.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.ValueTuple.dll
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\BouncyCastle.Cryptography.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\DocumentFormat.OpenXml.Framework.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Enums.NET.pdb
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Enums.NET.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Microsoft.IO.RecyclableMemoryStream.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Renci.SshNet.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.Compression.Base.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\Syncfusion.XlsIO.Base.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Buffers.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Memory.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Numerics.Vectors.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\bin\Release\System.ValueTuple.xml
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.AssemblyReference.cache
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.Main.resources
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.Properties.Resources.resources
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.GenerateResource.cache
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CoreCompileInputs.cache
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.csproj.CopyComplete
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.exe
+D:\SRC_CODE\AutoUploadBosa\AutoUploadBosa\obj\Release\AutoUploadBosa.pdb
